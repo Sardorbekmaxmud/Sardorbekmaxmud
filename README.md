@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 ### Languages and tools I work with:
 <code><img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="30px"></code>
 <code><img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="30px"></code>
+<code><img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png" width="30px"></code>
+<code><img src="https://w7.pngwing.com/pngs/582/361/png-transparent-postgre-sql-logo-postgresql-relational-database-management-system-object-relational-database-database-blue-text-logo-thumbnail.png" width="30px"></code>
+<code><img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png" width="30px"></code>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
