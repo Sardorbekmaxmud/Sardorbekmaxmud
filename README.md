@@ -1,4 +1,4 @@
-### Hi I'm Sardorbek Maxmudov <img src="https://media/giphy.com/media/hvRJCLFzcasr4ia7z/giphy.gif">
+### Hi I'm Sardorbek Maxmudov <img src="https://media/giphy.com/media/hvRJCLFzcasr4ia7z/giphy.gif",width="35px">
 
 <!--
 **Sardorbekmaxmud/Sardorbekmaxmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
