@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-<img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="60px">
+### Languages and tools I work with:
+<img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="30px">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
