@@ -1,4 +1,4 @@
-### Hi I'm Sardorbek Makhmudov <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif">
+### Hi I'm Sardorbek Makhmudov <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="28px">
 
 <!--
 **Sardorbekmaxmud/Sardorbekmaxmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
