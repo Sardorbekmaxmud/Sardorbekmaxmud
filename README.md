@@ -1,6 +1,7 @@
 ### Hi I'm Sardorbek Makhmudov <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="28px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"/> </p>
+<code><img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="30px"></code>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"> </p>
 <!--
 **Sardorbekmaxmud/Sardorbekmaxmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,7 +9,6 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and tools I work with:
-<code><img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="30px"></code>
 <!--<code><img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" width="30px"/></code>
 <code><img src="https://camo.githubusercontent.com/537f66454b766b0d56da91225206ebf6d28ecff24d84668d52cf9430e02460fd/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" width="30px"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30px"/></code>
