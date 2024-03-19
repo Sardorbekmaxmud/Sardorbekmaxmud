@@ -1,4 +1,4 @@
-### Hi I'm Sardorbek Makhmudov 👋 width="28px">
+### Hi I'm Sardorbek Makhmudov 👋
 
 <h2>I'm Backend Developer</h2>
 
