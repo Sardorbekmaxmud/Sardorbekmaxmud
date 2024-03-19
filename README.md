@@ -5,7 +5,7 @@
 ### Languages and tools I work with:
 <code><img src="https://www.pngkit.com/png/full/70-701450_python-logo-black-and-white-ps4-logo-white.png" width="30px"></code>
 <code><img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" width="30px"/></code>
-<code><img src="https://camo.githubusercontent.com/537f66454b766b0d56da91225206ebf6d28ecff24d84668d52cf9430e02460fd/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" width="30px"/></code>
+<code><img src="https://global.discourse-cdn.com/auth0/original/3X/d/8/d8e87cc1ffe6637a6b8b076e976fa408f8b2d52e.png" width="30px"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30px"/></code>
 <code><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="35px"/></code>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"> </p>
