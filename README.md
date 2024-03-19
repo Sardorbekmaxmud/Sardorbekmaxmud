@@ -4,7 +4,7 @@
 
 ### Languages and tools I work with:
 <code><img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" width="30px"></code>
-<code><img src="https://www.pngkit.com/png/full/70-701450_python-logo-black-and-white-ps4-logo-white.png" width="30px"/></code>
+<code><img src="https://banner2.cleanpng.com/20180325/kpq/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde1954e21.4104715915219911376116.jpg" width="30px"/></code>
 <code><img src="https://c0.klipartz.com/pngpicture/28/601/gratis-png-ilustracion-del-logotipo-de-sql-base-de-datos-de-microsoft-sql-azure-servidor-de-microsoft-sql-base-de-datos-thumbnail.png" width="30px"/></code>
 <code><img src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png" width="30px"/></code>
 <code><img src="https://www.kindpng.com/picc/m/452-4529814_docker-and-kubernetes-logos-docker-logo-white-png.png" width="30px"/></code>
