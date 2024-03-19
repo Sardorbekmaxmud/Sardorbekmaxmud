@@ -7,7 +7,7 @@
 <code><img src="https://www.pngkit.com/png/full/70-701450_python-logo-black-and-white-ps4-logo-white.png" width="30px"/></code>
 <code><img src="https://c0.klipartz.com/pngpicture/28/601/gratis-png-ilustracion-del-logotipo-de-sql-base-de-datos-de-microsoft-sql-azure-servidor-de-microsoft-sql-base-de-datos-thumbnail.png" width="30px"/></code>
 <code><img src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png" width="30px"/></code>
-<code><img src="https://www.kindpng.com/picc/m/452-4529814_docker-and-kubernetes-logos-docker-logo-white-png.png" width="35px"/></code>
+<code><img src="https://www.kindpng.com/picc/m/452-4529814_docker-and-kubernetes-logos-docker-logo-white-png.png" width="30px"/></code>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"> </p>
 <!--
 **Sardorbekmaxmud/Sardorbekmaxmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
