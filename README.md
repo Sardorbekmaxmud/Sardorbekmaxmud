@@ -6,7 +6,7 @@
 <code><img src="https://www.pngkit.com/png/full/70-701450_python-logo-black-and-white-ps4-logo-white.png" width="30px"></code>
 <code><img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" width="30px"/></code>
 <code><img src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png" width="30px"/></code>
-<code><img src="https://banner2.cleanpng.com/20180403/lhe/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5ac3dfa11c1874.3743286715227862091151.jpg" width="50px" height="30px"/></code>
+<code><img src="https://c0.klipartz.com/pngpicture/28/601/gratis-png-ilustracion-del-logotipo-de-sql-base-de-datos-de-microsoft-sql-azure-servidor-de-microsoft-sql-base-de-datos-thumbnail.png" width="30px"/></code>
 <code><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="35px"/></code>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"> </p>
 <!--
