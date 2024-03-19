@@ -1,4 +1,4 @@
-### Hi I'm Sardorbek Makhmudov <img src="https://cdn-icons-png.flaticon.com/128/4666/4666748.png](https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="28px">
+### Hi I'm Sardorbek Makhmudov 👋 width="28px">
 
 <h2>I'm Backend Developer</h2>
 
