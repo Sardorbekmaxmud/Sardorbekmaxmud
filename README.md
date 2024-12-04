@@ -2,7 +2,7 @@
   <li>👋 Hi, I'm Sardorbek Maxmudov ( github.com/Sardorbekmaxmud )</li>
   <li>📦 My Pet Projects are in here</li>
   <li>👀 I’m a Junior Python Developer</li>
-  <li>📫 How to reach me: telegram: <a href='https://t.me/Sardorbekmaxmudov'>Sardorbekmaxmudov</a>, gmail:<a href='mailto:sardorbekmaxmudov33@gmail.com'>sardorbekmaxmudov33@gmail.com</a></li>
+  <li>📫 How to reach me: telegram: <a href='https://t.me/Sardorbekmaxmudov'>@Sardorbekmaxmudov</a>, gmail: <a href='mailto:sardorbekmaxmudov33@gmail.com'>sardorbekmaxmudov33@gmail.com</a></li>
 </ul>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"></p>
