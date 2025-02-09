@@ -10,6 +10,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=450&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Sardorbek+Maxmudov!;+I'm+a+Junior+Python+Developer;">
 </h1>
 
+### 🐍 GitHub Activity Snake
+
+![Snake animation](https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/github-contribution-grid-snake.svg)
+
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"></p>
 
 <!--<h4>I'm Backend Developer</h4>
