@@ -8,7 +8,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"></p>
 
 
-<!--<h4>I'm Backend Developer</h4>
+<h4>I'm Backend Developer</h4>
 
 ### Languages and tools I work with:
 <code><img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" width="30px"></code>
@@ -20,7 +20,7 @@
 **Sardorbekmaxmud/Sardorbekmaxmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 
 
 <!-- - 🔭 I’m currently working on ...
