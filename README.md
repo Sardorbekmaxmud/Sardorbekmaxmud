@@ -7,12 +7,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"></p>
 
-<img src="https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/snake.svg" alt="Snake animation" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=450&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Sardorbek+Maxmudov!;+I'm a Junior Python Backend Developer">
+</h1>
 
 
 <!--<h4>I'm Backend Developer</h4>
