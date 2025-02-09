@@ -7,8 +7,10 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"></p>
 
+<img src="https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/snake.svg" alt="Snake animation" />
 
-<h4>I'm Backend Developer</h4>
+
+<!--<h4>I'm Backend Developer</h4>
 
 ### Languages and tools I work with:
 <code><img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" width="30px"></code>
@@ -16,10 +18,10 @@
 <code><img src="https://c0.klipartz.com/pngpicture/28/601/gratis-png-ilustracion-del-logotipo-de-sql-base-de-datos-de-microsoft-sql-azure-servidor-de-microsoft-sql-base-de-datos-thumbnail.png" width="30px"/></code>
 <code><img src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png" width="30px"/></code>
 <code><img src="https://www.kindpng.com/picc/m/452-4529814_docker-and-kubernetes-logos-docker-logo-white-png.png" width="30px"/></code>
-<!--
+
 **Sardorbekmaxmud/Sardorbekmaxmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 
 
@@ -30,4 +32,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
