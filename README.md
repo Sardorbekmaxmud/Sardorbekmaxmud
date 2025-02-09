@@ -8,6 +8,11 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"></p>
 
 <img src="https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 <!--<h4>I'm Backend Developer</h4>
