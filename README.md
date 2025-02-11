@@ -13,13 +13,7 @@
 <!--### 🐍 GitHub Activity Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/github-contribution-grid-snake.svg)
--->
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud"></p>
-
-
-
-<h1 align="center">Hi 👋, I'm Sardorbek Maxmudov</h1>
 <h3 align="center">A junior python backend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud" /> </p>
@@ -32,7 +26,7 @@
 
 - 📫 How to reach me **sardorbekmaxmudov33@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vRbRweoJia_YF5ZdoNPunSwJLoHmBe17u3f--lfeyJJueP0HtHKakjKyqGqwPBOyTaunvgyh0p30_0j/pub](https://docs.google.com/document/d/e/2PACX-1vRbRweoJia_YF5ZdoNPunSwJLoHmBe17u3f--lfeyJJueP0HtHKakjKyqGqwPBOyTaunvgyh0p30_0j/pub)
+- 📄 Know about my experiences [view my resume](https://docs.google.com/document/d/e/2PACX-1vRbRweoJia_YF5ZdoNPunSwJLoHmBe17u3f--lfeyJJueP0HtHKakjKyqGqwPBOyTaunvgyh0p30_0j/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
