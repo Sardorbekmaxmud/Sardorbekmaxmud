@@ -13,6 +13,7 @@
 <!--### 🐍 GitHub Activity Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/github-contribution-grid-snake.svg)
+-->
 
 <h3 align="center">A junior python backend developer from Uzbekistan</h3>
 
