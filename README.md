@@ -1,11 +1,3 @@
-<!--
-<ul>
-  <li>👋 Hi, I'm Sardorbek Maxmudov ( github.com/Sardorbekmaxmud )</li>
-  <li>📦 My Pet Projects are in here</li>
-  <li>👀 I’m a Junior Python Developer</li>
-  <li>📫 How to reach me: telegram: <a href='https://t.me/Sardorbekmaxmudov'>@Sardorbekmaxmudov</a>, gmail: <a href='mailto:sardorbekmaxmudov33@gmail.com'>sardorbekmaxmudov33@gmail.com</a></li>
-</ul>
--->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=450&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Sardorbek+Maxmudov!;+I'm+a+Junior+Python+Developer;">
 </h1>
@@ -15,7 +7,9 @@
 ![Snake animation](https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/github-contribution-grid-snake.svg)
 -->
 
-<h3 align="center">A junior python backend developer from Uzbekistan</h3>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=650&height=70&duration=4000&lines=A+junior+python+backend+developer+from+Uzbekistan;"
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud" /> </p>
 
@@ -23,11 +17,11 @@
 
 - 🌱 I’m currently learning **django, drf**
 
-- 👨‍💻 All of my projects are available at [sardorbekm-portfolio.netlify.app](sardorbekm-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [**portfolio**](sardorbekm-portfolio.netlify.app)
 
-- 📫 How to reach me **sardorbekmaxmudov33@gmail.com**
+- 📫 How to reach me: telegram: <a href='https://t.me/Sardorbekmaxmudov'>**@Sardorbekmaxmudov**</a>,  gmail: <a href='mailto:sardorbekmaxmudov33@gmail.com'>**sardorbekmaxmudov33@gmail.com**</a></li>  
 
-- 📄 Know about my experiences [view my resume](https://docs.google.com/document/d/e/2PACX-1vRbRweoJia_YF5ZdoNPunSwJLoHmBe17u3f--lfeyJJueP0HtHKakjKyqGqwPBOyTaunvgyh0p30_0j/pub)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/e/2PACX-1vRbRweoJia_YF5ZdoNPunSwJLoHmBe17u3f--lfeyJJueP0HtHKakjKyqGqwPBOyTaunvgyh0p30_0j/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,23 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sardorbekmaxmud&show_icons=true&locale=en" alt="sardorbekmaxmud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sardorbekmaxmud&" alt="sardorbekmaxmud" /></p>
-
-
-
-<!--<h4>I'm Backend Developer</h4>
-
-### Languages and tools I work with:
-<code><img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" width="30px"></code>
-<code><img src="https://banner2.cleanpng.com/20180325/kpq/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde1954e21.4104715915219911376116.jpg" width="30px"/></code>
-<code><img src="https://c0.klipartz.com/pngpicture/28/601/gratis-png-ilustracion-del-logotipo-de-sql-base-de-datos-de-microsoft-sql-azure-servidor-de-microsoft-sql-base-de-datos-thumbnail.png" width="30px"/></code>
-<code><img src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png" width="30px"/></code>
-<code><img src="https://www.kindpng.com/picc/m/452-4529814_docker-and-kubernetes-logos-docker-logo-white-png.png" width="30px"/></code>
-
-**Sardorbekmaxmud/Sardorbekmaxmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
