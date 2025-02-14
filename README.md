@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sardorbekmaxmud" alt="sardorbekmaxmud" /></a> </p>
 
-- 🌱 I’m currently learning **django, drf**
+- 🌱 I’m currently learning: **django, drf**
 
-- 👨‍💻 All of my projects are available at [**portfolio**](sardorbekm-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://sardorbekm-portfolio.netlify.app)
 
 - 📫 How to reach me: telegram: <a href='https://t.me/Sardorbekmaxmudov'>**@Sardorbekmaxmudov**</a>,  gmail: <a href='mailto:sardorbekmaxmudov33@gmail.com'>**sardorbekmaxmudov33@gmail.com**</a></li>  
 
@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sardorbekmaxmud&" alt="sardorbekmaxmud" /></p>
 
-### 🐍 GitHub Activity Snake
+<!--### 🐍 GitHub Activity Snake-->
 
 ![Snake animation](https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/github-contribution-grid-snake.svg)
 
