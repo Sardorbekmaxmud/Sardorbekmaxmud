@@ -2,11 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=450&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Sardorbek+Maxmudov!;+I'm+a+Junior+Python+Developer;">
 </h1>
 
-<!--### 🐍 GitHub Activity Snake
-
-![Snake animation](https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/github-contribution-grid-snake.svg)
--->
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=650&height=70&duration=4000&lines=A+junior+python+backend+developer+from+Uzbekistan;"
 </h3>
@@ -37,6 +32,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sardorbekmaxmud&show_icons=true&locale=en" alt="sardorbekmaxmud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sardorbekmaxmud&" alt="sardorbekmaxmud" /></p>
+
+### 🐍 GitHub Activity Snake
+
+![Snake animation](https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/github-contribution-grid-snake.svg)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
