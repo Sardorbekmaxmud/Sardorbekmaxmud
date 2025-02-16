@@ -8,11 +8,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sardorbekmaxmud" alt="sardorbekmaxmud" /></a> </p>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 🌱 I’m currently learning: **django, drf**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://sardorbekm-portfolio.netlify.app)
 
-- 📫 How to reach me: telegram: <a href='https://t.me/Sardorbekmaxmudov'>**@Sardorbekmaxmudov**</a>,  gmail: <a href='mailto:sardorbekmaxmudov33@gmail.com'>**sardorbekmaxmudov33@gmail.com**</a></li>  
+- 📫 How to reach me: [telegram](https://t.me/Sardorbekmaxmudov) or [gmail](mailto:sardorbekmaxmudov33@gmail.com)  
 
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/e/2PACX-1vRbRweoJia_YF5ZdoNPunSwJLoHmBe17u3f--lfeyJJueP0HtHKakjKyqGqwPBOyTaunvgyh0p30_0j/pub)
 
