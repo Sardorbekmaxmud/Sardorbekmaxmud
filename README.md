@@ -37,9 +37,9 @@
 
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sardorbekmaxmud&count_private=true&show_icons=true&theme=gotham&rank_icon=github&hide_border=false&border_radius=10" height="150" alt="readme stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sardorbekmaxmud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Sardorbekmaxmud&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sardorbekmaxmud&count_private=true&show_icons=true&theme=gotham&rank_icon=github&hide_border=false&border_radius=10" height="150" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sardorbekmaxmud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
