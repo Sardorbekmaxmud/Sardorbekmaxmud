@@ -33,6 +33,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sardorbekmaxmud&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="sardorbekmaxmud" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/main/profile-3d-contrib/profile-night-green.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/main/profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
 ### 🐍 GitHub Activity Snake
 
 ![Snake animation](https://github.com/Sardorbekmaxmud/Sardorbekmaxmud/blob/output/snake.svg)
