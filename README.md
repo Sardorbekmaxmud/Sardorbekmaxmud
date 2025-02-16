@@ -34,7 +34,7 @@
 
 <!--### 🐍 GitHub Activity Snake-->
 
-<!--![Snake animation](https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://raw.githubusercontent.com/Sardorbekmaxmud/Sardorbekmaxmud/output/github-contribution-grid-snake.svg)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
