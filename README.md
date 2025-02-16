@@ -1,6 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=450&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Sardorbek+Maxmudov!;+I'm+a+Junior+Python+Developer;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=650&height=70&duration=4000&lines=A+junior+python+backend+developer+from+Uzbekistan;"
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Sardorbek+Maxmudov!;+I'm+a+Junior+Python+Developer+from+Uzbekistan!;">
 </h1>
 
 <h3 align="center"></h3>
@@ -8,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardorbekmaxmud&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekmaxmud" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sardorbekmaxmud" alt="sardorbekmaxmud" /></a> </p>
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 - 🌱 I’m currently learning: **django, drf**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://sardorbekm-portfolio.netlify.app)
